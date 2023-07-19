@@ -2220,7 +2220,7 @@ h1 {
 
 .photography-header {
   width: 100vw;
-/*   height: 11vh; */
+  height: 11vh;
   background-color: #fff6ec;
   justify-content: space-between;
   margin-top: 0;
@@ -2241,7 +2241,7 @@ h1 {
 }
 
 .photography-header.topone {
-  height: 11vh;
+/*   height: 11vh; */
   background-color: #fff5eb;
   margin-top: 0;
   margin-bottom: 0;
